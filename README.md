@@ -31,6 +31,27 @@ This is a simple **two-player guessing game** built with **HTML, CSS, and JavaSc
 
 ---
 
+## 📦 Technologies Used
+- HTML5
+- CSS3 (inline)
+- JavaScript (vanilla, inline)
+
+---
+
+## 📌 Features
+- Fully browser-based (no backend)
+- Responsive and interactive
+- Simple, clean UI
+
+---
+
+## 🧠 Future Ideas
+- Add difficulty levels (easy/medium/hard)
+- Add score or attempt counter
+- Share game via link with pre-set numbers
+
+---
+
 ## 🛠 How to Run Locally
 
 1. Clone the repo  
